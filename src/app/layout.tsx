@@ -1,6 +1,6 @@
+import { NextTamaguiProvider } from '@/components/NextTamaguiProvider'
 import type { Metadata } from 'next'
 
-import { NextTamaguiProvider } from './NextTamaguiProvider'
 
 export const metadata: Metadata = {
   title: 'Create Next App',
